@@ -10,3 +10,8 @@ assignment 4: https://github.com/StijnMeijs/assigments/blob/master/assignment4%2
 assignment 5: https://github.com/StijnMeijs/assigments/blob/master/Graded_assignment1%20(1).ipynb
 
 assignment 6: https://github.com/StijnMeijs/assigments/blob/master/Graded_assignment_2%20(2).ipynb
+
+
+Files exam 21 september 2018:
+
+python assignment: https://github.com/StijnMeijs/assigments/blob/master/exam_Sep_21_2018.ipynb
